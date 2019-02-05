@@ -13,6 +13,6 @@ SupplimentaryFiles
 
 6. Perturbed edges occuring in at least two cancer types were all merged to obtain pan-cancer gain and loss profiles (Supplementary Files 4 & 5). Proteins involved in pan-cancer edgetic perturbations are known cancer biomarkers and affect distinct pathways, Supplementary File 6.
 
-7. Proteins involved in cancer-specific and subtype-specific significant edgetic pertutbations and corresponding survival analysis plots are available in Supplementary Table 7 and Supplementary Figure 3.
+7. Proteins involved in cancer-specific and subtype-specific significant edgetic pertutbations and corresponding survival analysis plots are available in Supplementary File 7 and Supplementary Figure 3.
 
-8. Significantly rewired nodes comprise of known cancer biomarkers and are also involved in multiple diseases, Supplementary File 9.gz ()
+8. Significantly rewired nodes comprise of known cancer biomarkers and are also involved in multiple diseases, Supplementary File 9.gz
